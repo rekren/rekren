@@ -1,6 +1,6 @@
 # Hi there, I’m Rüçhan 👋
 
- **Bioinformatics Data Scientist | Multi‑Omics Integrator | Provider of Data‑Driven Insights | Technophile**
+ **Bioinformatics Data Scientist | Multi‑Omics Integrator | Provider of Data‑Driven Insights**
 
 ---
 
@@ -11,7 +11,7 @@ I’m driven by a passion to uncover novel pathways, biomarkers, and therapeutic
 
 ---
 
-## 🧬 My Scientific Arsenal
+## 🧬 Highligted Technical Competences
 
 ### Programming & Data Analysis
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -33,10 +33,6 @@ I’m driven by a passion to uncover novel pathways, biomarkers, and therapeutic
 - Scalable workflows on HPC nodes  
 - Containerization and CI/CD practices  
 
----
-
-## 🧪 Highlights
-
 ### 🚀 Impactful Projects
 - Developed pipelines for **single‑cell RNA‑seq**, **epigenomics**, and **proteomics** to investigate immune dysfunction in chronic diseases for different projects.  
 - Curated a **comprehensive immune cell atlas**, expanding on predecessor work by 20×.  
@@ -56,32 +52,7 @@ I’m driven by a passion to uncover novel pathways, biomarkers, and therapeutic
   <a href="https://learn.microsoft.com/en-us/users/rekren/achievements">
     <img src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Learn">
   </a>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rekren&show_icons=true&theme=radical" alt="rekren's GitHub stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rekren&layout=compact&theme=radical" alt="Top Languages" width="48%">
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rekren&theme=radical&no-frame=true&column=3" alt="GitHub Trophy">
-  </a>
-</div>
-
-
-## 🌐 Reach me out
-<div align="center">
-  <!-- Social Media Badges -->
-  <p>
-    <a href="mailto:ruchan.ekren@inserm.fr">
-      <img src="https://img.shields.io/badge/✉️-ruchan.ekren@inserm.fr-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">  
-    </a>
-    <a href="https://www.linkedin.com/in/rekren">
+      <a href="https://www.linkedin.com/in/rekren">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>  
     <a href="https://x.com/RuchanEkren">
@@ -90,19 +61,35 @@ I’m driven by a passion to uncover novel pathways, biomarkers, and therapeutic
     <a href="https://bsky.app/profile/ruchanekren.bsky.social">
       <img src="https://img.shields.io/badge/Bluesky-00CFFF?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky">
     </a>
-  </p>
+</div>
 
+
+
+## 🌱 Fun Fact
+When I’m not following the latest breakthroughs in bioinformatics and computational immunology, I enjoy diving into **story‑rich single‑player RPGs**. Whether exploring medieval worlds or living out alternative realities, I love being the hero of epic quests 🐉⚔️🧙‍♂️ (or sometimes the villain🦹‍♂️). 
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rekren&show_icons=true&theme=radical" alt="rekren's GitHub stats" width="53%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rekren&layout=compact&theme=radical" alt="Top Languages" width="40%">
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rekren&theme=radical&no-frame=true&column=9" alt="GitHub Trophy">
+  </a>
+</div>
+
+---
+
+<div align="center">
   <!-- Visitor Counter -->
   <p>
     <strong>Visitor count:</strong><br>
     <img src="https://profile-counter.glitch.me/rekren/count.svg" alt="Visitor Count">
   </p>
 </div>
-
-
-### 🌱 Fun Fact
-When I’m not following the latest breakthroughs in bioinformatics and computational immunology, I enjoy diving into **story‑rich single‑player RPGs**. Whether exploring medieval worlds or living out alternative realities, I love being the hero of epic quests 🐉⚔️🧙‍♂️ (or sometimes the villain🦹‍♂️). 
-
----
-
 
