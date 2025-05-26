@@ -33,7 +33,7 @@ I’m driven by the pursuit of uncovering novel **pathways**, **biomarkers**, an
   ![nf-core](https://img.shields.io/badge/-nf--core-3F80C3?style=flat-square&logo=nf-core&logoColor=white) 
   ![Nextflow](https://img.shields.io/badge/-Nextflow-3F80C3?style=flat-square&logo=nextflow&logoColor=white) 
   Snakemake  
-- 🔹 **Pathway & Network Analysis**: GSEA, ORA, functional enrichment, topology-aware integration
+- 🔹 **Pathway & Network Analysis**: Functional enrichment, GSEA, ORA, topology-aware integration
 
 ### 📊 Data Visualization & Scientific Communication
 ![ggplot2](https://img.shields.io/badge/-ggplot2-276DC3?style=flat-square&logo=r&logoColor=white) 
@@ -91,10 +91,10 @@ I’m driven by the pursuit of uncovering novel **pathways**, **biomarkers**, an
 
 ## 🌱 Fun Fact
 
-When I’m not deciphering transcriptional landscapes or benchmarking single-cell workflows, you’ll likely find me deep in story-driven RPGs. I love exploring lore-rich universes, building unorthodox character classes, and sometimes—just for fun—embracing the dark side 🐉⚔️🧙‍♂️🦹‍♂️.
+When I’m not deciphering transcriptional landscapes or benchmarking single-cell workflows, you’ll likely find me deep in story-driven RPGs. I love exploring lore-rich universes, building unorthodox character classes, and sometimes -just for fun- embracing the dark side 🐉⚔️🧙‍♂️🦹‍♂️.
 
 > Favorite alignment: **Chaotic Good**.  
-> Favorite class: **Necromancer** -— I summon insights from long-buried datasets, turning forgotten data into an army of the undead that powers new discoveries.  
+> Favorite class: **Necromancer** - I summon insights from long-buried datasets, turning forgotten data into an army of the undead that powers new discoveries.  
 
 
 ---
