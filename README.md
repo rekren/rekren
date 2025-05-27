@@ -28,22 +28,22 @@ I’m driven by the pursuit of uncovering novel **pathways**, **biomarkers**, an
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 ### 🔬 Bioinformatics Expertise
-- 🔹 **Omics Analysis**: scRNA‑seq, bulk RNA-seq, NGS, MS-based proteomics, Olink, spatial transcriptomics  
-- 🔹 **Reproducible Workflows**:  
+- **Omics Analysis**: scRNA‑seq, bulk RNA-seq, NGS, MS-based proteomics, Olink, spatial transcriptomics  
+- **Reproducible Workflows**:  
   ![nf-core](https://img.shields.io/badge/-nf--core-3F80C3?style=flat-square&logo=nf-core&logoColor=white) 
   ![Nextflow](https://img.shields.io/badge/-Nextflow-3F80C3?style=flat-square&logo=nextflow&logoColor=white) 
   Snakemake  
-- 🔹 **Pathway & Network Analysis**: Functional enrichment, GSEA, ORA, topology-aware integration
+- **Pathway & Network Analysis**: Functional enrichment, GSEA, ORA, topology-aware integration
 
 ### 📊 Data Visualization & Scientific Communication
 ![ggplot2](https://img.shields.io/badge/-ggplot2-276DC3?style=flat-square&logo=r&logoColor=white) 
 ![RShiny](https://img.shields.io/badge/-RShiny-276DC3?style=flat-square&logo=r&logoColor=white) 
 ![webR](https://img.shields.io/badge/webR-ffffff?logo=webassembly&style=flat-square&color=3e97e2&logoColor=white)
 
-- Built interactive dashboards for exploratory data analysis  
-- Created dynamic visualizations of multi‑dimensional biological data  
-- Delivered reports as clean and interpretable HTML/PDF docs ([example](https://web-genobioinfo.toulouse.inrae.fr/~rekren/ADmodelVac_onlyfirstExp_100424.html))  
-- 💬 Actively collaborate with clinicians, immunologists & fellow data scientists across teams and consortia
+- Building interactive dashboards for exploratory data analysis  
+- Creating dynamic visualizations of multi‑dimensional biological data  
+- Delivering reports as clean and interpretable HTML/PDF docs ([example](https://web-genobioinfo.toulouse.inrae.fr/~rekren/ADmodelVac_onlyfirstExp_100424.html))  
+- 💬 Actively collaborating with clinicians, immunologists & fellow data scientists across teams and consortia
 
 ### ☁️ Computational Infrastructure
 ![Mamba](https://img.shields.io/badge/-Mamba-44A833?style=flat-square&logo=anaconda&logoColor=white) 
