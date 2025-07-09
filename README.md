@@ -30,10 +30,9 @@ I’m driven by the pursuit of uncovering novel **pathways**, **biomarkers**, an
 ### 🔬 Bioinformatics Expertise
 - **Omics Analysis**: scRNA‑seq, bulk RNA-seq, NGS, MS-based proteomics, Olink, spatial transcriptomics  
 - **Reproducible Workflows**:  
-  ![nf-core](https://img.shields.io/badge/-nf--core-3F80C3?style=flat-square&logo=nf-core&logoColor=white) 
   ![Nextflow](https://img.shields.io/badge/-Nextflow-3F80C3?style=flat-square&logo=nextflow&logoColor=white) 
-  Snakemake  
-- **Pathway & Network Analysis**: Functional enrichment, GSEA, ORA, topology-aware integration
+  ![nf-core](https://img.shields.io/badge/-nf--core-3F80C3?style=flat-square&logo=nf-core&logoColor=white) 
+- **Pathway Analysis**: Functional enrichment, GSEA, ORA, topology-aware integration
 
 ### 📊 Data Visualization & Scientific Communication
 ![ggplot2](https://img.shields.io/badge/-ggplot2-276DC3?style=flat-square&logo=r&logoColor=white) 
@@ -51,7 +50,7 @@ I’m driven by the pursuit of uncovering novel **pathways**, **biomarkers**, an
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
-- Designed scalable workflows on local & cloud-based HPC systems  
+- Designed scalable workflows on local workstation & HPC systems 
 - Embraced containerization & CI/CD for portability and reproducibility
 
 ---
@@ -111,10 +110,8 @@ When I’m not deciphering transcriptional landscapes or benchmarking single-cel
     <img src="https://github-profile-trophy.vercel.app/?username=rekren&theme=radical&no-frame=true&column=10" alt="GitHub Trophy">
   </a>
 </div>
-
----
-
 <div align="center">
-  <p><strong>Visitor count:</strong></p>
-  <img src="https://profile-counter.glitch.me/rekren/count.svg" alt="Visitor Count">
+
+  ![](https://komarev.com/ghpvc/?username=rekren&base=250)
+
 </div>
